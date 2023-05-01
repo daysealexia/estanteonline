@@ -1,0 +1,41 @@
+#divHeader{
+    display: flex;
+    align-items: center;
+    background-color:#a72a1e ;
+    justify-content: space-evenly;
+
+}
+
+.fotobio{
+    width: 100px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+.daysealexia{
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    flex-direction:left;
+    justify-content: flex-start;
+    font-size: 30px;
+    width: 30px;
+    padding-left: 20px;
+}
+
+.containerlogo{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+}
+label{
+    font-size: 30px;
+}
+.containerdados{
+    font-family: 'Montserrat', sans-serif;
+    color:white ;
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+
+}

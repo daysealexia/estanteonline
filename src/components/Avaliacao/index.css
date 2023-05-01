@@ -1,0 +1,27 @@
+.containeravaliacao{
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    justify-content: space-evenly;
+    background: #a72a1e;
+    box-sizing: content-box;
+    padding: 20px;
+    width: 50%;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+.containertexto{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 35px;
+    color: white;
+    
+}
+h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+   
+}
