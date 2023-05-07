@@ -1,4 +1,5 @@
 import './App.css';
+import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import Header from './components/Header/header';
 import Catalogo from './components/Catalogo/catalogo';
 import Avaliacao from './components/Avaliacao/index';
